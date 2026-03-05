@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanth-reddy&theme=tokyonight&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himanth-reddy&theme=tokyonight&no-frame=true&row=1&column=7)
+![](https://gh-trophy.cdnsoft.net/?username=Himanth-reddy&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
