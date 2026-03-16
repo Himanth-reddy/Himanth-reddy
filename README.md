@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Fullstack , Python**
 
-- 🌐 My Portfolio website **[Portfolio](himanth.vercel.app)**
+- 🌐 My Portfolio website **[Portfolio](https://himanth.vercel.app)**
 
 - 📄 Know about my experiences **[MyResume](https://drive.google.com/file/d/1HuJVUIXGyQS0BAoug1_boRo--LgCnjIE/view?usp=drivesdk)**
 
